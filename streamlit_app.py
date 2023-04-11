@@ -79,3 +79,4 @@ if streamlit.button('Add a Fruit to the List'):
 
 stream.write ('Thanks for adding ', add_my_fruit)
 
+streamlit.stop()
